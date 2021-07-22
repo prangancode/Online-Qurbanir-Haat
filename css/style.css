@@ -1,0 +1,39 @@
+
+
+.Phone-color a:hover span:nth-child(2) {
+    color: #ffd148;
+}
+
+.carousel-inner > .carousel-item > img {
+    
+    height:720px;
+    opacity: 0.75;
+  }
+
+.carousel-inner > .carousel-item > .carousel-caption > h2 {
+      color: black;
+  }
+
+.carousel-inner > .carousel-item > .carousel-caption > span {
+    color: green;
+    font-size: 50px;
+}
+
+.slider-hamba-rounded{
+    border-radius: 25px;
+}
+
+.hamba-space{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.choose-set img{
+    width: 45px;
+    height: 45px;
+    
+}
+
+.choose-space{
+    padding-bottom: 80px;
+}
